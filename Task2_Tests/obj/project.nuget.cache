@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nm79eGv3QX1x5RtP9jbvxe82BsujBLx/XtqvF8bPBBobCBz/6+mR/lVnfkPRLEUMw4MoRGqkez/7s1Lhpa9uxQ==",
+  "success": true,
+  "projectFilePath": "D:\\University ChNU\\Programming\\Year 2\\Term 1\\Laboratory Work 3\\Laboratory_Work_3\\Task2_Tests\\Task2_Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimb0\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\dimb0\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512",
+    "C:\\Users\\dimb0\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\dimb0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

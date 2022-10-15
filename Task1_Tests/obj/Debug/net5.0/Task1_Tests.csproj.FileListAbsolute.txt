@@ -1,0 +1,5 @@
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 3\Laboratory_Work_3\Task1_Tests\obj\Debug\net5.0\Task1_Tests.csproj.AssemblyReference.cache
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 3\Laboratory_Work_3\Task1_Tests\obj\Debug\net5.0\Task1_Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 3\Laboratory_Work_3\Task1_Tests\obj\Debug\net5.0\Task1_Tests.AssemblyInfoInputs.cache
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 3\Laboratory_Work_3\Task1_Tests\obj\Debug\net5.0\Task1_Tests.AssemblyInfo.cs
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 3\Laboratory_Work_3\Task1_Tests\obj\Debug\net5.0\Task1_Tests.csproj.CoreCompileInputs.cache

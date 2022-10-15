@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rtCGG9k0LyW/LYRlmkEHOgY97Rqhqnf8D9/q3tlKscmG+4d9QCM3GoWcoktMv+F6yrF4ePsjNeuFNP4oYX3YQ==",
+  "success": true,
+  "projectFilePath": "D:\\University ChNU\\Programming\\Year 2\\Term 1\\Laboratory Work 3\\Laboratory_Work_3\\Task2\\Task2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimb0\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\dimb0\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\dimb0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
